@@ -1,0 +1,10 @@
+E:\PDFTest\PDF\PDF\bin\Debug\PDF.exe
+E:\PDFTest\PDF\PDF\bin\Debug\PDF.pdb
+E:\PDFTest\PDF\PDF\bin\Debug\BouncyCastle.Crypto.dll
+E:\PDFTest\PDF\PDF\bin\Debug\itextsharp.dll
+E:\PDFTest\PDF\PDF\bin\Debug\itextsharp.xml
+E:\PDFTest\PDF\PDF\obj\Debug\PDF.Properties.Resources.resources
+E:\PDFTest\PDF\PDF\obj\Debug\PDF.csproj.GenerateResource.Cache
+E:\PDFTest\PDF\PDF\obj\Debug\PDF.exe
+E:\PDFTest\PDF\PDF\obj\Debug\PDF.pdb
+E:\PDFTest\PDF\PDF\obj\Debug\PDF.csprojResolveAssemblyReference.cache
